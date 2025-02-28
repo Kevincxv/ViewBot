@@ -17,7 +17,7 @@ This bot helps streamers automate engagement services through the SMM City API f
 2. Create a `.env` file from the example
 3. Edit the `.env` file with your credentials
 - SMM City API key
-- Twitch OAuth token (get from https://twitchapps.com/tmi/)
+- Twitch OAuth token (get from https://twitchtokengenerator.com/)
 - Twitch channel name
 - Other configuration options
 4. Start the bot
